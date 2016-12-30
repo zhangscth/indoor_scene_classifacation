@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.12 (/usr/bin/python2.7)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ImageProcess" />
+    <orderEntry type="module" module-name="DeepLearningCode_theano" />
+    <orderEntry type="module" module-name="keras_tutorial" />
+    <orderEntry type="module" module-name="Tensorflow_tutorial" />
+    <orderEntry type="module" module-name="Test" />
+    <orderEntry type="module" module-name="SceneRecognition" />
+    <orderEntry type="module" module-name="ExpressionClassification" />
+    <orderEntry type="module" module-name="facenet" />
+    <orderEntry type="module" module-name="facenet_expressionclf" />
+    <orderEntry type="module" module-name="TensorFlow-Examples" />
+    <orderEntry type="module" module-name="TensorFlow-Tutorials" />
+    <orderEntry type="module" module-name="TripletLoss" />
+    <orderEntry type="module" module-name="Chatbot" />
+    <orderEntry type="module" module-name="python自然语言处理" />
+    <orderEntry type="module" module-name="ImageNet" />
+    <orderEntry type="module" module-name="GAN_Test" />
+    <orderEntry type="module" module-name="Attention_model" />
+    <orderEntry type="module" module-name="MachineLearning" />
+    <orderEntry type="module" module-name="PycharmProjects" />
+    <orderEntry type="module" module-name="PycharmProjects" />
+    <orderEntry type="module" module-name="Attention_model" />
+    <orderEntry type="module" module-name="SceneRecognition" />
+    <orderEntry type="module" module-name="SceneRecognition" />
+    <orderEntry type="module" module-name="Distribute_tensorflow" />
+    <orderEntry type="module" module-name="Spark_tutorial" />
+    <orderEntry type="module" module-name="tensorflow_validate_code" />
+    <orderEntry type="module" module-name="rnn_demo" />
+    <orderEntry type="module" module-name="house_number" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Nosetests" />
+    <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+  </component>
+</module>

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//data/readData.py=utf-8
+encoding//model/modelFactory.py=utf-8
+encoding//model/modelTrain.py=utf-8
+encoding//util/modelUtil.py=utf-8
+encoding//util/softmaxUtil.py=utf-8
+encoding//util/testDemo.py=utf-8

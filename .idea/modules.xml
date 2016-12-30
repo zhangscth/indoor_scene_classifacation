@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/zsc/1d0f5dea-3d4b-4d9d-9ad6-13d85c8f62a1/home/zsc/workspace/PycharmProjects/Attention_model/.idea/Attention_model.iml" filepath="/media/zsc/1d0f5dea-3d4b-4d9d-9ad6-13d85c8f62a1/home/zsc/workspace/PycharmProjects/Attention_model/.idea/Attention_model.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Chatbot/.idea/Chatbot.iml" filepath="$USER_HOME$/PycharmProjects/Chatbot/.idea/Chatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/workspace/DeepLearningCode_theano/.idea/DeepLearningCode_theano.iml" filepath="$PROJECT_DIR$/../python/workspace/DeepLearningCode_theano/.idea/DeepLearningCode_theano.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Distribute_tensorflow/.idea/Distribute_tensorflow.iml" filepath="$USER_HOME$/PycharmProjects/Distribute_tensorflow/.idea/Distribute_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/workspace/ExpressionClassification/.idea/ExpressionClassification.iml" filepath="$PROJECT_DIR$/../python/workspace/ExpressionClassification/.idea/ExpressionClassification.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/GAN_Test/.idea/GAN_Test.iml" filepath="$USER_HOME$/PycharmProjects/GAN_Test/.idea/GAN_Test.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ImageNet/.idea/ImageNet.iml" filepath="$USER_HOME$/PycharmProjects/ImageNet/.idea/ImageNet.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ImageProcess/.idea/ImageProcess.iml" filepath="$USER_HOME$/PycharmProjects/ImageProcess/.idea/ImageProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IndoorSceneRecognition.iml" filepath="$PROJECT_DIR$/.idea/IndoorSceneRecognition.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MachineLearning/.idea/MachineLearning.iml" filepath="$USER_HOME$/PycharmProjects/MachineLearning/.idea/MachineLearning.iml" />
+      <module fileurl="file:///media/zsc/1d0f5dea-3d4b-4d9d-9ad6-13d85c8f62a1/home/zsc/workspace/PycharmProjects/.idea/PycharmProjects.iml" filepath="/media/zsc/1d0f5dea-3d4b-4d9d-9ad6-13d85c8f62a1/home/zsc/workspace/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/SceneRecognition/.idea/SceneRecognition.iml" filepath="$USER_HOME$/PycharmProjects/SceneRecognition/.idea/SceneRecognition.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Spark_tutorial/.idea/Spark_tutorial.iml" filepath="$USER_HOME$/PycharmProjects/Spark_tutorial/.idea/Spark_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../git/TensorFlow-Examples/.idea/TensorFlow-Examples.iml" filepath="$PROJECT_DIR$/../../git/TensorFlow-Examples/.idea/TensorFlow-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../git/TensorFlow-Tutorials/.idea/TensorFlow-Tutorials.iml" filepath="$PROJECT_DIR$/../../git/TensorFlow-Tutorials/.idea/TensorFlow-Tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/workspace/Tensorflow_tutorial/.idea/Tensorflow_tutorial.iml" filepath="$PROJECT_DIR$/../python/workspace/Tensorflow_tutorial/.idea/Tensorflow_tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" filepath="$USER_HOME$/PycharmProjects/Test/.idea/Test.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/TripletLoss/.idea/TripletLoss.iml" filepath="$USER_HOME$/PycharmProjects/TripletLoss/.idea/TripletLoss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../git/facenet/.idea/facenet.iml" filepath="$PROJECT_DIR$/../../git/facenet/.idea/facenet.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/facenet_expressionclf/.idea/facenet_expressionclf.iml" filepath="$USER_HOME$/PycharmProjects/facenet_expressionclf/.idea/facenet_expressionclf.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/house_number/.idea/house_number.iml" filepath="$USER_HOME$/PycharmProjects/house_number/.idea/house_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python/workspace/keras_tutorial/.idea/keras_tutorial.iml" filepath="$PROJECT_DIR$/../python/workspace/keras_tutorial/.idea/keras_tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/python自然语言处理/.idea/python自然语言处理.iml" filepath="$USER_HOME$/PycharmProjects/python自然语言处理/.idea/python自然语言处理.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/rnn_demo/.idea/rnn_demo.iml" filepath="$USER_HOME$/PycharmProjects/rnn_demo/.idea/rnn_demo.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/tensorflow_validate_code/.idea/tensorflow_validate_code.iml" filepath="$USER_HOME$/PycharmProjects/tensorflow_validate_code/.idea/tensorflow_validate_code.iml" />
+    </modules>
+  </component>
+</project>
